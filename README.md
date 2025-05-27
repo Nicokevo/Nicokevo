@@ -1,6 +1,6 @@
-<h1 >Hi there! I'm Nicolás Kevorkian 👋</h1>
+<h1 align="center">Hi there! I'm Nicolás Kevorkian 👋</h1>
 
-<p >
+<p align="center">
   <strong>Full Stack Developer (.NET, React, SQL) with automation skills</strong><br>
   Based in Buenos Aires, Argentina 🇦🇷 | Working remotely for Mexico 🇲🇽
 </p>
