@@ -41,7 +41,7 @@ My goal is to continue growing as a Full Stack Developer in modern .NET environm
 
 More available in my [repositories](https://github.com/Nicokevo?tab=repositories).
 
----
+----
 
 ### 📫 Contact
 
