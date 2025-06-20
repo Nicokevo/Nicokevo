@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nicolás Kevorkian 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer (.NET, React, SQL) with strong QA Automation & SDET skills</strong><br>
+  <strong>Full Stack Developer (.NET, Blazor, React, SQL) with strong QA Automation & SDET skills</strong><br>
   Based in Buenos Aires, Argentina 🇦🇷 | Working remotely for Mexico 🇲🇽
 </p>
 
@@ -12,10 +12,10 @@
 I'm a Full Stack Developer with over 3 years of real-world experience, working with technologies such as:
 
 - Backend: **.NET, C#, SQL Server**
-- Frontend: **React, Blazor, JavaScript**
+- Frontend: **Blazor, React, JavaScript**
 - Testing: **Playwright (TypeScript), Postman, xUnit, Jest**
 
-I currently work in a **mid-level technical QA role**, combining software development and test engineering. I lead automation efforts using Playwright and Postman, validate APIs, perform manual code reviews, and actively collaborate on .NET and Blazor-based systems. My work bridges development and QA, aligning closely with the **SDET (Software Development Engineer in Test)** mindset.
+I currently work in a **mid-level technical QA role**, combining software development and test engineering. I lead automation efforts using Playwright and Postman, validate APIs, perform manual code reviews, and actively collaborate on **Blazor and .NET-based systems**. My work bridges development and QA, aligning closely with the **SDET (Software Development Engineer in Test)** mindset.
 
 My goal is to keep growing into a hybrid SDET/.NET Developer role, building high-quality systems with clean architecture, automation, and solid testing strategies.
 
@@ -24,7 +24,7 @@ My goal is to keep growing into a hybrid SDET/.NET Developer role, building high
 ### 🧠 Technical Skills
 
 - 🖥️ **Languages**: C#, JavaScript, TypeScript, SQL  
-- 💻 **Frameworks**: .NET Core, React, Blazor, Node.js  
+- 💻 **Frameworks**: .NET Core, Blazor, React, Node.js  
 - 🔍 **Testing**: Playwright, Postman, Jest, xUnit, BUnit  
 - 🧪 **ORMs**: Entity Framework, LINQ, ADO.NET  
 - 🧰 **CI/CD & Version Control**: Azure DevOps, GitHub  
