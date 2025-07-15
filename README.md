@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Developer with over 3 years of real-world experience, working with technologies such as:
+I'm a Full Stack Developer and  QA Automation with over 3 years of real-world experience, working with technologies such as:
 
 - Backend: **.NET, C#, SQL Server**
 - Frontend: **Blazor, React, JavaScript**
