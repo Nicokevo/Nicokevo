@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nicolás Kevorkian 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer (.NET, Blazor, React, SQL) with strong QA Automation & SDET skills</strong><br>
+  <strong>Full Stack Developer (.NET, Blazor, React, SQL) and  QA Automation</strong><br>
   Based in Buenos Aires, Argentina 🇦🇷 | Working remotely for Mexico 🇲🇽
 </p>
 
